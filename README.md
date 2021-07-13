@@ -35,5 +35,8 @@ Here are some ideas to get you started:
   
   <h3>Video and Sound Editing</h3>
   <a href="https://icons8.com/icon/UohrMT84a2p9/davinci-resolve"><img src="https://img.icons8.com/plasticine/100/000000/davinci-resolve.png"/></a>
-  <a href="https://icons8.com/icon/36327/ableton"><img src="https://img.icons8.com/ios-filled/50/000000/ableton.png"/></a>
+  <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="48" height="48"
+viewBox="0 0 172 172"
+style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#e74c3c"><path d="M89.58333,107.5h64.5v10.75h-64.5zM89.58333,53.75h64.5v10.75h-64.5zM89.58333,71.66667h64.5v10.75h-64.5zM89.58333,89.58333h64.5v10.75h-64.5zM17.91667,53.75h10.75v64.5h-10.75zM71.66667,53.75h10.75v64.5h-10.75zM53.75,53.75h10.75v64.5h-10.75zM35.83333,53.75h10.75v64.5h-10.75z"></path></g></g></svg>
 </p>  
