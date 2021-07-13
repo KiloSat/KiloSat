@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Skills :
+
 <p align='left'>
   <h3>Machine Learning Tech Stack</h3>
   <a href="https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow"><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>
@@ -26,4 +26,5 @@ Skills :
   <a href="https://icons8.com/icon/8gfeOoqrHqJU/figma"><img src="https://img.icons8.com/color/48/000000/figma--v2.png"/></a>
   <a href="https://icons8.com/icon/20909/html-5"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
   <a href="https://icons8.com/icon/21278/css3"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+  <a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/></a>
 </p>  
