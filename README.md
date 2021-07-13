@@ -19,11 +19,11 @@ Here are some ideas to get you started:
   <h3>Machine Learning Technologies</h3>
   <span class="iconify" data-icon="logos-pytorch" data-inline="false"></span>
   <a href="https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow"><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>
-  <a href="https://getlogo.net/pytorch-logo-vector-svg/" target="_blank"><img src="https://getlogo.net/wp-content/uploads/2020/11/pytorch-logo-vector.png" /></a>
   <a href="https://icons8.com/icon/Rc0Xn5AtE8kX/python"><img src="https://img.icons8.com/color/48/000000/python--v2.png"/></a>
   <a href="https://icons8.com/icon/20773/google-cloud-platform"><img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/></a>
   <a href="https://icons8.com/icon/74402/mongodb"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
   <br>
+  
   <h3>Design and FrontEnd</h3>
   <a href="https://icons8.com/icon/8gfeOoqrHqJU/figma"><img src="https://img.icons8.com/color/48/000000/figma--v2.png"/></a>
   <a href="https://icons8.com/icon/20909/html-5"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
