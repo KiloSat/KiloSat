@@ -21,7 +21,7 @@ Skills :
   <a href="https://icons8.com/icon/Rc0Xn5AtE8kX/python"></a>
   <a href="https://icons8.com/icon/20773/google-cloud-platform"></a>
   <br>
-  <a href="https://icons8.com/icon/8gfeOoqrHqJU/figma"></a>
-  <a href="https://icons8.com/icon/20909/html-5"></a>
+  <a href="https://icons8.com/icon/8gfeOoqrHqJU/figma"><img src="https://img.icons8.com/color/48/000000/figma--v2.png"/></a>
+  <a href="https://icons8.com/icon/20909/html-5"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
   <a href="https://icons8.com/icon/21278/css3"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 </p>  
