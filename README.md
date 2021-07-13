@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2>Technologies and Skills</h2>
 <p align='left'>
   <h3>Data Science and ML</h3>
-  <a href=""><img src="https://img.icons8.com/color/70/000000/tensorflow.png"/></a>&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="https://img.icons8.com/color/70/000000/tensorflow.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href=""><img src="https://img.icons8.com/color/70/000000/python--v2.png"/></a>
   <a href=""><img src="https://img.icons8.com/color/70/000000/opencv.png"/></a>
   <br>
