@@ -18,21 +18,21 @@ Here are some ideas to get you started:
 <p align='left'>
   <h3>Data Science and ML</h3>
   <a href=""><img src="https://img.icons8.com/color/70/000000/tensorflow.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="https://img.icons8.com/color/70/000000/python--v2.png"/></a>
+  <a href=""><img src="https://img.icons8.com/color/70/000000/python--v2.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href=""><img src="https://img.icons8.com/color/70/000000/opencv.png"/></a>
   <br>
-  <a href=""><img src="https://img.icons8.com/color/70/000000/google-cloud-platform.png"/></a>
-  <a href=""><img src="https://img.icons8.com/color/70/000000/mongodb.png"/></a>
+  <a href=""><img src="https://img.icons8.com/color/70/000000/google-cloud-platform.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="https://img.icons8.com/color/70/000000/mongodb.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href=""><img src="https://img.icons8.com/fluent/70/000000/wolfram-alpha.png"/></a>
   
   
   <h3>Design and FrontEnd</h3>
-  <a href=""><img src="https://img.icons8.com/color/70/000000/figma--v2.png"/></a>
-  <a href=""><img src="https://img.icons8.com/color/70/000000/html-5--v1.png"/></a>
-  <a href=""><img src="https://img.icons8.com/color/70/000000/css3.png"/></a>
+  <a href=""><img src="https://img.icons8.com/color/70/000000/figma--v2.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="https://img.icons8.com/color/70/000000/html-5--v1.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="https://img.icons8.com/color/70/000000/css3.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href=""><img src="https://img.icons8.com/color/70/000000/javascript--v2.png"/></a>
   
   <h3>Video and Sound Editing</h3>
-  <a href=""><img src="https://img.icons8.com/color/70/000000/davinci-resolve.png"/></a>
+  <a href=""><img src="https://img.icons8.com/color/70/000000/davinci-resolve.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href=""><img src="https://img.icons8.com/color/74/000000/ableton.png"/></a>
 </p>  
