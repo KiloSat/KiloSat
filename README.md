@@ -34,6 +34,6 @@ Here are some ideas to get you started:
   <a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/></a>
   
   <h3>Video and Sound Editing</h3>
-  <a href="https://icons8.com/icon/UohrMT84a2p9/davinci-resolve"><img src="https://img.icons8.com/plasticine/100/000000/davinci-resolve.png"/></a>
+  <a href="https://icons8.com/icon/UohrMT84a2p9/davinci-resolve"><img src="https://img.icons8.com/color/100/000000/davinci-resolve.png"/></a>
   <a href="https://icons8.com/icon/38738/ableton"><img src="https://img.icons8.com/color/48/000000/ableton.png"/></a>
 </p>  
