@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Skills :
+<p align='left'>
+  <a href="https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow"></a>
+  <a href="https://icons8.com/icon/Rc0Xn5AtE8kX/python"></a>
+  <a href="https://icons8.com/icon/20773/google-cloud-platform"></a>
+  <br>
+  <a href="https://icons8.com/icon/8gfeOoqrHqJU/figma"></a>
+  <a href="https://icons8.com/icon/20909/html-5"></a>
+  <a href="https://icons8.com/icon/21278/css3"></a>
+</p>  
