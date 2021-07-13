@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h3>Technologies and Skills</h3>
 <p align='left'>
-  <h3>Data Science and ML</h3>
+  <h4>Data Science and ML</h4>
   <a href=""><img src="https://img.icons8.com/color/70/000000/tensorflow.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href=""><img src="https://img.icons8.com/color/70/000000/python--v2.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href=""><img src="https://img.icons8.com/color/70/000000/opencv.png"/></a>
@@ -26,13 +26,13 @@ Here are some ideas to get you started:
   <a href=""><img src="https://img.icons8.com/fluent/70/000000/wolfram-alpha.png"/></a>
   
   
-  <h3>Design and FrontEnd</h3>
+  <h4>Design and FrontEnd</h4>
   <a href=""><img src="https://img.icons8.com/color/70/000000/figma--v2.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href=""><img src="https://img.icons8.com/color/70/000000/html-5--v1.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href=""><img src="https://img.icons8.com/color/70/000000/css3.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href=""><img src="https://img.icons8.com/color/70/000000/javascript--v2.png"/></a>
   
-  <h3>Video and Sound Editing</h3>
+  <h4>Video and Sound Editing</h4>
   <a href=""><img src="https://img.icons8.com/color/70/000000/davinci-resolve.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href=""><img src="https://img.icons8.com/color/74/000000/ableton.png"/></a>
 </p>  
